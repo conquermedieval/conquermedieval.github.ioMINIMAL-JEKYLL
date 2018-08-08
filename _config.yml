@@ -13,17 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ./notes.ayo
+title: Nilsonlinux
 author: Ayo Ayco
-attribution: "2018 &copy; by Ayo Ayco"
-website: AyoAyco.com
-email: mail@ayoayco.com
+attribution: "2018 &copy; by Nilsonlinux"
+website: conquermedieval.github.io
+email: mail@nilsonlinux.com
 description: >- # this means to ignore newlines until "baseurl:"
     // notes on technology and life
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ayoayco
-github_username:  ayoayco
+twitter_username: nilsonlinux
+github_username:  nilsonlinux
 
 # Build settings
 markdown: kramdown
@@ -38,15 +38,15 @@ defaults:
     type: "posts"
   values:
     layout: post
-    author: Ayo
+    author: Nilsonlinux
 
 # this goes inside _config.yml. Change as required
 navigation:
-- text: Home
+- text: Inicio
   url: /
-- text: About
+- text: Sobre mim
   url: /about/
-- text: Contact me
+- text: Contatos
   url: /contact-me/
 
 # Exclude from processing.
