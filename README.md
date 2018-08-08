@@ -6,3 +6,4 @@ This is a blog built with [Jekyll](https://github.com/jekyll/jekyll), a static s
 
 Later, I will do a fork of Minima theme and publish my customizations.
 
+![main_desktop](https://1drv.ms/u/s!AjGnmocCtJnEggwff9J5Jm4Qra29)
