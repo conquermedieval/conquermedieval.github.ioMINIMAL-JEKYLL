@@ -17,13 +17,13 @@ title: Nilsonlinux
 author: Nilsonlinux
 attribution: "2018 &copy; by Nilsonlinux"
 website: https://conquermedieval.github.io
-email: mail@nilsonlinux.com
+email: nilsonlinux@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     // notes on technology and life
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://conquermedieval.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: nilsonlinux
-github_username:  nilsonlinux
+twitter_username: Nlsonlinux
+github_username:  Nilsonlinux
 
 # Build settings
 markdown: kramdown
